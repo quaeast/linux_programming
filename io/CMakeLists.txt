@@ -4,3 +4,4 @@ project(io_test C)
 set(CMAKE_C_STANDARD 99)
 
 add_executable(hello_world_tty hello_world_tty.c)
+add_executable(hello_world_stdout hello_world_stdout.c)
